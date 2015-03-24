@@ -1,7 +1,7 @@
-Code For Tucson Website
+Code For Charleston Website
 =======================
 
-This is the repository for the website for Code for Tucson, the Tucson chapter of the Code for America Brigade program. It is based on the website for [Code for DC](http://www.codefordc.org).
+This is the repository for the website for Code for Charleston, the Charleston chapter of the Code for America Brigade program. It is based on the website for [Code for Tucson](http://codefortucson.org/).
 
 This site is built on Github Pages, which uses [Jekyll](http://jekyllrb.com/) as a templating language.
 
@@ -12,8 +12,8 @@ This site is built on Github Pages, which uses [Jekyll](http://jekyllrb.com/) as
     # Install Ruby 2.0.0
     $ rvm install 2.0.0
     
-    # Create and use the Code for Tucson Gemset
-    $ rvm use 2.0.0@codefortucson --create
+    # Create and use the Code for Charleston Gemset
+    $ rvm use 2.0.0@codeforchs --create
     
     # Install the dependencies
     $ bundle install
