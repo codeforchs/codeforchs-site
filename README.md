@@ -44,13 +44,13 @@ Look for the `$site-baseurl` variable in [`assets/_sass/_custom.scss`](https://g
 
 _If you are using RVM, make sure you are using the correct Gemset!_
     
-    $ rvm use 2.0.0@codefortucson
+    $ rvm use 2.0.0@codeforchs
 
 Start the local web server
 
     $ jekyll serve -b '' -w
 
-You should now be able to visit http://localhost:4000/ in your browser and see a copy of the Code for Tucson site hosted on your very own computer that updates when you save something! Zoiks!
+You should now be able to visit http://localhost:4000/ in your browser and see a copy of the Code for Charleston site hosted on your very own computer that updates when you save something! Zoiks!
 
 ###To make changes:
 + You should set up a fork of the site and test your changes there before submitting a pull request.
