@@ -1,7 +1,7 @@
-Code For Tucson Website
+Code For Charleston Website
 =======================
 
-This is the repository for the website for Code for Tucson, the Tucson chapter of the Code for America Brigade program. It is based on the website for [Code for DC](http://www.codefordc.org).
+This is the repository for the website for Code for Charleston, the Charleston chapter of the Code for America Brigade program. It is based on the website for [Code for Tucson](http://codefortucson.org/).
 
 This site is built on Github Pages, which uses [Jekyll](http://jekyllrb.com/) as a templating language.
 
@@ -12,8 +12,8 @@ This site is built on Github Pages, which uses [Jekyll](http://jekyllrb.com/) as
     # Install Ruby 2.0.0
     $ rvm install 2.0.0
     
-    # Create and use the Code for Tucson Gemset
-    $ rvm use 2.0.0@codefortucson --create
+    # Create and use the Code for Charleston Gemset
+    $ rvm use 2.0.0@codeforchs --create
     
     # Install the dependencies
     $ bundle install
@@ -44,13 +44,13 @@ Look for the `$site-baseurl` variable in [`assets/_sass/_custom.scss`](https://g
 
 _If you are using RVM, make sure you are using the correct Gemset!_
     
-    $ rvm use 2.0.0@codefortucson
+    $ rvm use 2.0.0@codeforchs
 
 Start the local web server
 
     $ jekyll serve -b '' -w
 
-You should now be able to visit http://localhost:4000/ in your browser and see a copy of the Code for Tucson site hosted on your very own computer that updates when you save something! Zoiks!
+You should now be able to visit http://localhost:4000/ in your browser and see a copy of the Code for Charleston site hosted on your very own computer that updates when you save something! Zoiks!
 
 ###To make changes:
 + You should set up a fork of the site and test your changes there before submitting a pull request.

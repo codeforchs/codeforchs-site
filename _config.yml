@@ -1,13 +1,13 @@
-name: Code for Tucson
-description: "Code for Tucson is a Code for America Brigade. The Code for America Brigade program is an international network of people committed to using their voices and hands, in collaboration with local governments, to make their cities better. Brigades build participatory power in their cities by holding regular civic hack nights and events, advocating for open data, and deploying apps. Brigades celebrate and share their successes with the Brigade network to further the global civic innovation movement."
+name: Code for Charleston
+description: "Code for Charleston is a Code for America Brigade. The Code for America Brigade program is an international network of people committed to using their voices and hands, in collaboration with local governments, to make their cities better. Brigades build participatory power in their cities by holding regular civic hack nights and events, advocating for open data, and deploying apps. Brigades celebrate and share their successes with the Brigade network to further the global civic innovation movement."
 markdown: kramdown
 highlighter: pygments
 
 permalinks: pretty
 
 owner:
-  name: Code for Tucson
-  twitter:
+  name: Code for Charleston
+  twitter: codeforchs
   facebook:
   # For Google Authorship https://plus.google.com/authorship
   google_plus: 
@@ -18,8 +18,8 @@ google_verify:
 sass:
   sass_dir: assets/_sass
 
-baseurl: http://codefortucson.github.io/codefortucson-site
-url: http://www.codefortucson.org
+baseurl: http://codeforchs.github.io/codeforchs-site
+url: http://codeforchs.github.io/codeforchs-site
 #uncomment when working locally
 #url:  http://localhost:4000/
 
