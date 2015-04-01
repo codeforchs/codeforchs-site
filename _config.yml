@@ -3,8 +3,6 @@ description: "Code for Charleston is a Code for America Brigade. The Code for Am
 markdown: kramdown
 highlighter: pygments
 
-permalinks: pretty
-
 owner:
   name: Code for Charleston
   twitter: codeforchs
