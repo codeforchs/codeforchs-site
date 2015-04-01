@@ -1,0 +1,37 @@
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+<div class="navbar navbar-inverse navbar-fixed-top">
+  <div class="container">
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".nav-collapse">
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+    </button>
+
+    <a class="navbar-brand" href="/index.html"><img src="{{ site.baseurl }}/assets/images/codefortucson-mark.png"/ class="mark-50"></a>
+    <div class="nav-collapse collapse">
+
+      <ul class="nav navbar-nav" id="navbar-nav">
+        <li><a href="/index.html">Code for Charleston</a></li>
+        <li class="dropdown">
+          <a href="/calendar/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">About<span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="/about/">About Us</a></li>
+            <li><a href="/code-of-conduct/">Code of Conduct</a></li>
+          </ul>
+        </li>
+        <li><a href="/calendar/">Calendar</a></li>
+        <li><a href="/talk/">Talk</a></li>
+        <!-- <li><a href="https://github.com/codeforchs" target="_blank">Projects</a></li> -->
+        <li><a href="/projects/">Projects</a></li>
+      </ul>
+
+      <ul class="nav navbar-nav navbar-right">
+<!-- <li><a href="https://www.facebook.com/groups/codeforchs"><i class="fa fa-facebook-square">&nbsp;</i>Code for Charleston</a></li> -->
+        <li><a href="https://twitter.com/codeforchs"><i class="fa fa-twitter">&nbsp;</i>@codeforchs</a></li>
+        <li><a href="mailto:codeforchs@gmail.com"><i class="fa fa-envelope">&nbsp;</i>codeforchs@gmail.com</a></li>
+      </ul>
+
+    </div><!--/.nav-collapse -->
+
+  </div>
+</div>
