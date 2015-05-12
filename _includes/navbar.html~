@@ -6,10 +6,8 @@
       <span class="icon-bar"></span>
       <span class="icon-bar"></span>
     </button>
-
     <a class="navbar-brand" href="/index.html"><img src="{{ site.baseurl }}/assets/images/codefortucson-mark.png"/ class="mark-50"></a>
     <div class="nav-collapse collapse">
-
       <ul class="nav navbar-nav" id="navbar-nav">
         <li><a href="/index.html">Code for Charleston</a></li>
         <li class="dropdown">
@@ -26,12 +24,10 @@
       </ul>
 
       <ul class="nav navbar-nav navbar-right">
-<!-- <li><a href="https://www.facebook.com/groups/codeforchs"><i class="fa fa-facebook-square">&nbsp;</i>Code for Charleston</a></li> -->
+        <!-- <li><a href="https://www.facebook.com/groups/codeforchs"><i class="fa fa-facebook-square">&nbsp;</i>Code for Charleston</a></li> -->
         <li><a href="https://twitter.com/codeforchs"><i class="fa fa-twitter">&nbsp;</i>@codeforchs</a></li>
         <li><a href="mailto:codeforchs@gmail.com"><i class="fa fa-envelope">&nbsp;</i>codeforchs@gmail.com</a></li>
       </ul>
-
     </div><!--/.nav-collapse -->
-
   </div>
 </div>
