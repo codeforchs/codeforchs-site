@@ -6,21 +6,21 @@
       <span class="icon-bar"></span>
       <span class="icon-bar"></span>
     </button>
-    <a class="navbar-brand" href="{{ site.baseurl }}/index.html"><img src="{{ site.baseurl }}/assets/images/codefortucson-mark.png"/ class="mark-50"></a>
+    <a class="navbar-brand" href="/index.html"><img src="{{ site.baseurl }}/assets/images/codefortucson-mark.png"/ class="mark-50"></a>
     <div class="nav-collapse collapse">
       <ul class="nav navbar-nav" id="navbar-nav">
-        <li><a href="{{ site.baseurl }}/index.html">Code for Charleston</a></li>
+        <li><a href="/index.html">Code for Charleston</a></li>
         <li class="dropdown">
-          <a href="{{ site.baseurl }}/calendar/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">About<span class="caret"></span></a>
+          <a href="/calendar/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">About<span class="caret"></span></a>
           <ul class="dropdown-menu" role="menu">
-            <li><a href="{{ site.baseurl }}/about/">About Us</a></li>
-            <li><a href="{{ site.baseurl }}/code-of-conduct/">Code of Conduct</a></li>
+            <li><a href="/about/">About Us</a></li>
+            <li><a href="/code-of-conduct/">Code of Conduct</a></li>
           </ul>
         </li>
-        <li><a href="{{ site.baseurl }}/calendar/">Calendar</a></li>
-        <li><a href="{{ site.baseurl }}/talk/">Talk</a></li>
+        <li><a href="/calendar/">Calendar</a></li>
+        <li><a href="/talk/">Talk</a></li>
         <!-- <li><a href="https://github.com/codeforchs" target="_blank">Projects</a></li> -->
-        <li><a href="{{ site.baseurl }}/projects/">Projects</a></li>
+        <li><a href="/projects/">Projects</a></li>
       </ul>
 
       <ul class="nav navbar-nav navbar-right">
