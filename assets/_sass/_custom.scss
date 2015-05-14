@@ -67,7 +67,7 @@ h1.h0 {
 }
 
 .mark-50 {
-    width: 50px;
+    width: 75px;
 }
 
 .center-home {
@@ -122,8 +122,8 @@ height: 100%;
 
 .hero-text {
     text-align: left;
-    padding-left: 15%;
-    margin-top: 25px;
+    padding-left: 5%;
+    margin-top: 35px;
 }
 
 .hero-text img {
@@ -306,7 +306,7 @@ img.project-git-human {
 /***************************/
 
 .blog-hero {
-    background: url($site-baseurl + 'assets/images/blog_hero.jpg');
+    background: url($site-baseurl + '/assets/images/cooper_river_bg.png');
     background-size: cover;
     min-height: 300px;
     min-width: 400px;
