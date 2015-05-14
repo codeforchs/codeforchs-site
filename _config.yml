@@ -16,7 +16,8 @@ google_verify:
 sass:
   sass_dir: assets/_sass
 
-baseurl: http://codeforchs.github.io/codeforchs-site
+#baseurl: http://codeforchs.github.io/codeforchs-site
+baseurl: http://www.codeforchs.org
 #url: http://codeforchs.github.io/codeforchs-site
 url: http://www.codeforchs.org
 #uncomment when working locally
